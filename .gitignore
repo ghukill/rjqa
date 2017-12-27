@@ -102,3 +102,4 @@ ENV/
 
 # rjqa
 *.csv
+nohup.out
