@@ -24,7 +24,7 @@ PySocks==1.6.7
 python-dateutil==2.6.1
 pytz==2017.3
 requests==2.18.4
-sanic==0.7.0
+sanic==20.12.6
 simplegeneric==0.8.1
 six==1.11.0
 traitlets==4.3.2
